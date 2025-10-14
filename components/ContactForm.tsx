@@ -43,7 +43,7 @@ const ContactForm = () => {
           </h2>
           <p className="text-lg text-foreground/80 mb-12">
             Have a project in mind? Fill out the form below and we&apos;ll get
-
+            back to you as soon as possible.
           </p>
         </div>
         <div className="max-w-3xl mx-auto">
