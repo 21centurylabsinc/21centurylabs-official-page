@@ -16,12 +16,13 @@ export default function WhyUsSection() {
           <div className="flex flex-col justify-center p-8 md:py-24">
             <h2 className="text-3xl font-bold mb-4">Why Work With Us?</h2>
             <p className="text-white/80">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.
+              We specialize in building well-made web solutions for small and
+              medium businesses (SMBs). We focus on solving your specific
+              operational challenges by using cost-effective and appropriate
+              technology that perfectly fits your investment. By leveraging our
+              talent, we help you enhance the customer experience, drive
+              efficiency, manage your business effectively, and unlock your
+              maximum growth potential.
             </p>
           </div>
         </div>
