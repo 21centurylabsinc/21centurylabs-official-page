@@ -8,27 +8,27 @@ import { ChevronLeft, ChevronRight, PauseIcon, PlayIcon } from "./icons";
 const slides = [
   {
     image: "/hero-slider-3.png",
-    title: "Take Your Business Next Level",
+    title: "We Build for Small and Medium Businesses",
     description:
-      "Discover powerful tools and features that help you create, collaborate, and innovate like never before.",
-    buttonText: "Learn More",
-    buttonLink: "#",
+      "We build software to solve your exact problems, using suitable technology that fits your investment.",
+    buttonText: "Contact Us",
+    buttonLink: "/#contact",
   },
   {
     image: "/hero-slider-1.png",
-    title: "Achieve the extraordinary",
+    title: "Every Business Needs Systems",
     description:
-      "Our services deliver cloud storage, security, and AI Copilot in your favourite apps – all in one plan.",
-    buttonText: "Explore Services",
-    buttonLink: "#",
+      "No matter your industry, every business needs software systems to manage operations effectively. Well-made systems will significantly improve your efficiency.",
+    buttonText: "Contact Us",
+    buttonLink: "/#contact",
   },
   {
     image: "/hero-slider-2.png",
-    title: "Unlock Your Potential",
+    title: "Unlock Business Potential",
     description:
-      "Discover powerful tools and features that help you create, collaborate, and innovate like never before.",
-    buttonText: "Learn More",
-    buttonLink: "#",
+      "Leverage software and the web to give your customers a better experience and maximize your business's growth potential.",
+    buttonText: "Contact Us",
+    buttonLink: "/#contact",
   },
 ];
 
