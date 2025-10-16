@@ -3,7 +3,7 @@ import Link from "next/link";
 const socialLinks = [
   { name: "LinkedIn", href: "https://www.linkedin.com/company/21centurylabs/" },
   { name: "X", href: "https://x.com/21centurylabs" },
-  { name: "Facebook", href: "#" },
+  { name: "Facebook", href: "https://web.facebook.com/profile.php?id=61582463601599" },
   { name: "YouTube", href: "https://www.youtube.com/@21CenturyLabs" },
   { name: "TikTok", href: "#" },
 ];
