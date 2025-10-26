@@ -5,7 +5,7 @@ const socialLinks = [
   { name: "X", href: "https://x.com/21centurylabs" },
   { name: "Facebook", href: "https://web.facebook.com/profile.php?id=61582463601599" },
   { name: "YouTube", href: "https://www.youtube.com/@21CenturyLabs" },
-  { name: "TikTok", href: "#" },
+  { name: "Instagram", href: "https://www.instagram.com/21centurylabs/" },
 ];
 
 export default function Footer() {
