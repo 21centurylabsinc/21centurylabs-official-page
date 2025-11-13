@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "21CenturyLabs - Web Development Company",
-  description: "Web Development Development Company Based on Sri Lanka",
+  title: "21CenturyLabs | Software Development Company",
+  description: "Software Development Company Based on Sri Lanka",
 };
 
 export default function RootLayout({
