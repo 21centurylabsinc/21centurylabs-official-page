@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-8 py-6">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-foreground/60">
-            &copy; 2026 21CenturyLabs. All Rights Reserved.
+            &copy; 2027 21CenturyLabs. All Rights Reserved.
           </p>
           <div className="flex items-center gap-6">
             {socialLinks.map((social) => (
